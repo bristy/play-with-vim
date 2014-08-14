@@ -69,10 +69,9 @@ set expandtab
 " ==============================================================================================================
 "													========
 " 	Purpose:		Vim configuration file .. 						========
-" 	Author:			Ajay Somani [ Lot of code taken from other people and help pages ]	========
-" 	Email:			ajaysomani@google.com 							========
-" 	Homepage:		http://students.iiit.ac.in/~ajaysomani 			 		========
-" 	Last Updated:		Sun Jun 22 16:57:48 IST 2008  						========
+" 	Author:			Brajesh Kumar [(Originally by Ajay Somani) Lot of code taken from other people and help pages ]	========
+" 	Email:			kbrajesh176@gmail.com							========
+" 	Last Updated:   Thu Aug 14 12:37:16 IST 2014   						========
 " 	File:			$HOME/.vimrc								========
 " 	Version:		2.0 Beta 1								========
 " 	Operating System:	Particularly designed for GNU/Linux					========
@@ -296,11 +295,10 @@ iab otime 	<c-r>=strftime("%H:%M:%S")<cr>
 iab ydt		<c-r>=strftime("%y%m%d %T")<cr>
 
 " personel abbreviations 
-iab ajay Ajay
-iab somani Somani
-iab _homepage_ 	http://students.iiit.ac.in/~ajaysomani
-iab _name_	Ajay Somani
-iab _email_ 	ajaysomani@students.iiit.ac.in
+iab brajesh Brajesh
+iab kumar Kumar
+iab _name_	Brajesh Kumar
+iab _email_ 	kbrajesh176@gmail.com
 
 " typing mistakes 
 iab teh the
