@@ -1,0 +1,3 @@
+Here are some links you may find useful
+1) To convert your best buddy(Vim) into a python IDE
+http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/

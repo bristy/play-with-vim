@@ -69,7 +69,8 @@ set expandtab
 " ==============================================================================================================
 "													========
 " 	Purpose:		Vim configuration file .. 						========
-" 	Author:			Brajesh Kumar [(Originally by Ajay Somani) Lot of code taken from other people and help pages ]	========
+" 	Author:			Brajesh Kumar [(Originally by Ajay Somani) Lot of code taken 
+" 	                from other people and help pages ]	========
 " 	Email:			kbrajesh176@gmail.com							========
 " 	Last Updated:   Thu Aug 14 12:37:16 IST 2014   						========
 " 	File:			$HOME/.vimrc								========
